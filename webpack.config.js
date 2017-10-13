@@ -9,7 +9,7 @@ module.exports = {
   entry: './main.js',
   output: {
     path: path.resolve('dist'),
-    publicPath: '/',
+    publicPath: '.',
     filename: 'main.js',
   },
   module: {
