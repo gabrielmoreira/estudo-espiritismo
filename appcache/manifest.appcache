@@ -1,36 +1,36 @@
 CACHE MANIFEST
-#ver:10/13/2017, 1:19:17 AM
+#ver:10/13/2017, 1:29:14 AM
 #plugin:4.8.4
 
 CACHE:
-/main.js
-/main.css
-/
-/manifest.json
-/icons/android-chrome-192x192.png
-/icons/android-chrome-512x512.png
-/icons/apple-touch-icon-120x120-precomposed.png
-/icons/apple-touch-icon-120x120.png
-/icons/apple-touch-icon-152x152-precomposed.png
-/icons/apple-touch-icon-152x152.png
-/icons/apple-touch-icon-180x180-precomposed.png
-/icons/apple-touch-icon-180x180.png
-/icons/apple-touch-icon-60x60-precomposed.png
-/icons/apple-touch-icon-60x60.png
-/icons/apple-touch-icon-76x76-precomposed.png
-/icons/apple-touch-icon-76x76.png
-/icons/apple-touch-icon-precomposed.png
-/icons/apple-touch-icon.png
-/icons/browserconfig.xml
-/icons/favicon-16x16.png
-/icons/favicon-32x32.png
-/icons/favicon.ico
-/icons/mstile-144x144.png
-/icons/mstile-150x150.png
-/icons/mstile-310x150.png
-/icons/mstile-310x310.png
-/icons/mstile-70x70.png
-/icons/safari-pinned-tab.svg
+./main.js
+./main.css
+./
+./manifest.json
+./icons/android-chrome-192x192.png
+./icons/android-chrome-512x512.png
+./icons/apple-touch-icon-120x120-precomposed.png
+./icons/apple-touch-icon-120x120.png
+./icons/apple-touch-icon-152x152-precomposed.png
+./icons/apple-touch-icon-152x152.png
+./icons/apple-touch-icon-180x180-precomposed.png
+./icons/apple-touch-icon-180x180.png
+./icons/apple-touch-icon-60x60-precomposed.png
+./icons/apple-touch-icon-60x60.png
+./icons/apple-touch-icon-76x76-precomposed.png
+./icons/apple-touch-icon-76x76.png
+./icons/apple-touch-icon-precomposed.png
+./icons/apple-touch-icon.png
+./icons/browserconfig.xml
+./icons/favicon-16x16.png
+./icons/favicon-32x32.png
+./icons/mstile-144x144.png
+./icons/mstile-150x150.png
+./icons/favicon.ico
+./icons/mstile-310x150.png
+./icons/mstile-310x310.png
+./icons/mstile-70x70.png
+./icons/safari-pinned-tab.svg
 
 NETWORK:
 *
